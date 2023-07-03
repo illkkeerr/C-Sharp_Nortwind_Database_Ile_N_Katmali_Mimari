@@ -1,0 +1,60 @@
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\N-Tier.ORM.dll
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\N-Tier.ORM.pdb
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Permissions.dll
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Permissions.xml
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.dll
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.pdb
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\N-Tier.ORM.dll
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\N-Tier.ORM.pdb
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Permissions.dll
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Permissions.xml
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.CopyComplete
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.dll
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.pdb
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\N-Tier.ORM.dll
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\N-Tier.ORM.pdb
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Permissions.dll
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Permissions.xml
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.CopyComplete
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.dll
+C:\Users\ilker\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.pdb
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\N-Tier.ORM.dll
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\N-Tier.ORM.pdb
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Permissions.dll
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Permissions.xml
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.csproj.CopyComplete
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.dll
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.ORM\obj\Debug\N-Tier.ORM.pdb

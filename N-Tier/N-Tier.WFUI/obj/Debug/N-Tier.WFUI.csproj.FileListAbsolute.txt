@@ -1,0 +1,59 @@
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.Properties.Resources.resources
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.exe.config
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.exe
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.pdb
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.ORM.dll
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.ORM.pdb
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.exe
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.pdb
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.exe.config
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.exe
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.pdb
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.ORM.dll
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.ORM.pdb
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.Properties.Resources.resources
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.CopyComplete
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.exe
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.pdb
+C:\Users\DellPc\Desktop\github deneme\Yeni klasör\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.frmKategoriler.resources
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.exe.config
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.exe
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.pdb
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.ORM.dll
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.ORM.pdb
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.frmKategoriler.resources
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.Properties.Resources.resources
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.CopyComplete
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.exe
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.pdb
+C:\Users\ilker\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.frmUrunler.resources
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.frmKategoriler.resources
+C:\Users\ilker\Desktop\C# personel takip programı\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.frmUrunler.resources
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.exe.config
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.exe
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.WFUI.pdb
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.ORM.dll
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\bin\Debug\N-Tier.ORM.pdb
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.frmKategoriler.resources
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.frmUrunler.resources
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N_Tier.WFUI.Properties.Resources.resources
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.csproj.CopyComplete
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.exe
+C:\Users\DellPc\Desktop\N-Tier\N-Tier.WFUI\obj\Debug\N-Tier.WFUI.pdb
